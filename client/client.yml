@@ -1,0 +1,6 @@
+server: 127.0.0.1
+port: 43222
+batch-size: 100
+source-dir: src
+processed-dir: done
+chunk-cache: chunks
